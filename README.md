@@ -18,7 +18,7 @@
 선수과목을 무시하고 들은 과목은 **볼드**, 타교 과목은 *이탤릭*으로 표기했습니다.
 | 학기                                                   | 학점       | 수강한 과목                                          |
 | ------------------------------------------------------ | ---------- | ---------------------------------------------------- |
-| [Advanced Placement]() | 12 | MATH101, LIFE103, MATH 101, PHYS101 |
+| [Advanced Placement]() | 12 | MATH101, LIFE103, MATH101, PHYS101 |
 | [2024 Spring]() | 20.5 | **CSED233**, **MATH230**, *YSOC200H*, SEMI101, CHEM101, CHEM102, CHEM104, GEDU101, GEDU111, MSUS101, MSUS102, PHYS103 |
 | [2024 Summer]() | 6 | *SNU032.004*, *SNU041.017* |
 | [2024 Fall]() | 20.5 | **CSED332**, CSED341, CITE103, CSED100, CSED105, GEDU112, GEDU151, MATH102, MSUS103, PHYS102 |
