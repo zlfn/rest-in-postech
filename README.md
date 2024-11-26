@@ -22,3 +22,10 @@
 | [2024 Spring]() | 20.5 | **CSED233**, **MATH230**, *YSOC200H*, SEMI101, CHEM101, CHEM102, CHEM104, GEDU101, GEDU111, MSUS101, MSUS102, PHYS103 |
 | [2024 Summer]() | 6 | *SNU032.004*, *SNU041.017* |
 | [2024 Fall]() | 20.5 | **CSED332**, CSED341, CITE103, CSED100, CSED105, GEDU112, GEDU151, MATH102, MSUS103, PHYS102 |
+
+---
+
+### Inspired by
+* [sohnryang/survival-at-postech](https://github.com/sohnryang/survival-at-postech)
+* [minsusun/how-to-survival-at-postech-csed](https://github.com/minsusun/how-to-survive-at-postech-csed)
+* [simnalamburt/snucse](https://github.com/simnalamburt/snucse)
