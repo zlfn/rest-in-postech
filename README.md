@@ -22,7 +22,7 @@
 | [2024 Spring]() | 20.5 | **CSED233**, **MATH230**, *YSOC200H*, SEMI101, CHEM101, CHEM102, CHEM104, GEDU101, GEDU111, MSUS101, MSUS102, PHYS103 |
 | [2024 Summer]() | 6 | *SNU032.004*, *SNU041.017* |
 | [2024 Fall]() | 20.5 | **CSED332**, CSED341, CITE103, CSED100, CSED105, GEDU112, GEDU151, MATH102, MSUS103, PHYS102 |
-| 2024 Winter (plan) | 2 | INTN300(을 할 수 있으면 좋겟다) |
+| 2024 Winter (plan) | 2 | INTN300 |
 | 2025 Spring (plan) | 20 | **CSED490K**, CSED331, CSED321, CSED261, MATH203, GEDU121, HASS202 |
 
 ### Checklist
@@ -43,7 +43,7 @@
 * [ ] CSED332 : 소프트웨어설계 (1-2), 3학점
 * [ ] CSED321 : 프로그래밍언어 (2-1?), 3학점
 * [ ] CSED490K : 특강 : 병렬 및 분산컴퓨팅 (2-1?), 3학점
-* [ ] INTN300 : 인턴십프로그램 (2-W, 불합격하면 다음기회에...), 2학점
+* [ ] INTN300 : 인턴십프로그램 (1-W?), 2학점
 
 **교양필수**
 * [x] GEDU111 : 기초영어 I (1-1)
