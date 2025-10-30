@@ -27,7 +27,7 @@
 | 2024 Winter | 2 | *INTN300* [@hyperithm](https://github.com/hyperithm) |
 | 2025 Spring | 0 | Semester off, Internship [@hyperithm](https://github.com/hyperithm) |
 | 2025 Summer | 2 | *INTN300* [@hyperithm](https://github.com/hyperithm) |
-| [2025 Fall]() | 17 | **CSED702D**, **CSED451**, CSED331, EECE274, GEDU121, MATH261 |
+| [2025 Fall]() | 17 | **CSED702D**, **CSED451**, CSED331, EECE274, MATH261, GEDU121 |
 
 ### Checklist
 **전공필수** (31학점)
