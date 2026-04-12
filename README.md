@@ -28,19 +28,20 @@
 | 2025 Spring | 0 | Semester off, Internship [@hyperithm](https://github.com/hyperithm) |
 | 2025 Summer | 2 | *INTN300* [@hyperithm](https://github.com/hyperithm) |
 | [2025 Fall]() | 17 | **CSED702D**, **CSED451**, CSED331, EECE274, MATH261, GEDU121 |
+| [2026 Spring]() | 19 | **CSED490K**, CSED499I, **CSED311**, NGCN301, CSED232, HASS202, GEDU126 |
 
 ### Checklist
 **전공필수** (31학점)
 * [ ] CSED211 : 컴퓨터SW시스템개론
-* [ ] CSED232 : ~~객체지향프로그래밍~~ 소프트웨어 작성 원리
+* [x] CSED232 : ~~객체지향프로그래밍~~ 소프트웨어 작성 원리
 * [x] CSED233 : 데이터구조 (1-1)
 * [x] MATH261 : 이산수학 (2-2)
 * [x] MATH230 : 확률및통계 (1-1)
-* [ ] CSED311 : 컴퓨터구조
+* [x] CSED311 : 컴퓨터구조
 * [ ] CSED312 : 운영체제
 * [x] CSED331 : 알고리즘 (2-2)
 * [x] CSED341 : 오토마타 및 형식언어 (1-2)
-* [ ] CSED499 I : 과제연구 I
+* [x] CSED499 I : 과제연구 I
 * [ ] CSED499 II : 과제연구 II
 
 **전공선택** (>=27학점)
@@ -53,7 +54,7 @@
 * [x] GEDU111 : 기초영어 I (1-1)
 * [x] GEDU112 : 기초영어 II (1-2)
 * [x] GEDU121 : 중급영어듣기 및 말하기 (2-2)
-* [ ] GEDU126 or GEDU127 (영문법 / 캠퍼스생활영어)
+* [x] GEDU126 or GEDU127 (영문법 / 캠퍼스생활영어)
 * [ ] GEDU131 or GEDU132 (중급영작문 / 중급영어강독)
 * [ ] GEDU136 or GEDU137 (고급영어강독 / 고급영어듣기 및 말하기)
 * [ ] HASS 과목
