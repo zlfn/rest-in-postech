@@ -17,7 +17,7 @@
 ---
 
 ### Reviews
-선수과목을 무시하고 들은 과목은 **볼드**, 타교/외부 과목은 *이탤릭*으로 표기했습니다.
+선수과목을 무시하고 들은 과목은 **볼드**, 타교/외부 과목은 *이탤릭*, 드랍한 과목은 ~~취소선~~으로 표시했습니다.
 | 학기                                                   | 학점       | 수강한 과목                                          |
 | ------------------------------------------------------ | ---------- | ---------------------------------------------------- |
 | [Advanced Placement](advanced-placement.md) | 12 | CSED101, LIFE103, MATH101, PHYS101 |
@@ -28,7 +28,7 @@
 | 2025 Spring | 0 | Semester off, Internship [@hyperithm](https://github.com/hyperithm) |
 | 2025 Summer | 2 | *INTN300* [@hyperithm](https://github.com/hyperithm) |
 | [2025 Fall]() | 17 | **CSED702D**, **CSED451**, CSED331, EECE274, MATH261, GEDU121 |
-| [2026 Spring]() | 19 | **CSED490K**, CSED499I, **CSED311**, NGCN301, CSED232, HASS202, GEDU126 |
+| [2026 Spring]() | 19 | **CSED490K**, CSED499I, **CSED311**, NGCN301, CSED232, HASS202, GEDU126, ~~CSED510~~ |
 
 ### Checklist
 **전공필수** (31학점)
