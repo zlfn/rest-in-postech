@@ -1,6 +1,17 @@
 # Rest In Postech
 내 대학생활 이곳에 잠들다.
 
+## Public Assignments
+*  : CSED332 - 소프트웨어설계방법  
+[https://github.com/zlfn/cs332-assign]  
+[https://github.com/zlfn/cs332-project]
+* CSED702D - 특론: 컴퓨터시스템설계  
+[https://github.com/zlfn/cs702d-assign]
+* CSED451 - 컴퓨터그래픽스  
+[https://github.com/zlfn/cs451-assign]
+* CSED311 - 컴퓨터구조  
+[https://github.com/zlfn/cs311-assign]
+
 ## Disclaimer
 본 레포지토리는 제가 포스텍(과 기타 대학)에서 수강한 학부 과목들을 리뷰하고 자료를 백업해두는 곳입니다. 학교에 대한 후기라고 보면 될 것 같습니다.  
 다른 비슷한 레포처럼 Survival이 붙지 않은 이유는 이렇게 들으면 안되기 때문입니다. 이 레포 내용을 따라 기형적인 학교 생활을 하고 싶으시다면 말리지는 않습니다.
